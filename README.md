@@ -1,6 +1,6 @@
-### Hi, I'm Paulo Henrique 👋🏼
+### Hi! I'm Estela Miranda 👋🏼
 
-<img align="left" hspace="50" vspace="50" width="200" height="200" src="https://github.com/paulohepimentel/paulohepimentel/blob/master/myoctocat.png">
+<img align="left" hspace="50" vspace="50" width="200" height="200" src="https://github.com/Estelamb/Estelamb/blob/master/myoctocat.png">
 
 
 Passionate about technology and always looking to learn, I entered the Bachelor's Degree in Computer Science in 2016, encouraged by curiosity and the desire to be part of this field capable of impacting everyone in all ways.
@@ -15,13 +15,13 @@ Passionate about technology and always looking to learn, I entered the Bachelor'
 <div align="center">
 <br>
 <br>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paulohepimentel&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohepimentel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=estelamb&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estelamb&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
