@@ -8,16 +8,15 @@ Passionate about technology and always looking to learn, I entered the Bachelor'
 - 🌱 I’m currently learning ReactJS, React Native and NodeJS
 - ⚡ Fun fact: Drinking too much coffee makes me have headaches!
 - 💬 Ask me what you want, let's talk, share experiences
-- 😄 Pronouns: PH, Paulo
+- 😄 Pronouns: MB, Estela
 
 
 
 <div align="center">
 <br>
 <br>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paulohepimentel&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohepimentel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=estelamb&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estelamblayout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
