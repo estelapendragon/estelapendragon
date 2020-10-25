@@ -10,17 +10,23 @@ Passionate about technology and always looking to learn, I entered the Bachelor'
 - 💬 Ask me what you want, let's talk, share experiences
 - 😄 Pronouns: MB, Estela
 
-
-
 <div align="center">
 <br>
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=estelamb&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estelamblayout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=estelamb&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estelamb&layout=compact&theme=dracula" />
+</a>
+
+
+
 
 </div>
 
 <!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
