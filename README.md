@@ -15,17 +15,18 @@ Passionate about technology, after attending a year of Mathematics Degree I chos
 <br>
 <br>
     <div class="row">
-        <div class="coluna" style="float: left; width: 55%; display: table;">
+        <div class="coluna" style="float: left; width: 50%; display: table;">
             <a href="https://github.com/anuraghazra/github-readme-stats">
               <img align="center" src="https://github-readme-stats.vercel.app/api?username=estelamb&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=dracula" />
             </a>
         </div>
-        <div class="coluna" style="float: left; width: 45%; display: table;">
+        <div class="coluna" style="float: left; width: 50%; display: table;">
             <a href="https://github.com/anuraghazra/convoychat">
               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estelamb&layout=compact&theme=dracula" />
             </a>
         </div>
     </div>
+
 
 
 
