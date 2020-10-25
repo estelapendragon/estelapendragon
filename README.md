@@ -18,8 +18,9 @@ Passionate about technology, after attending a year of Mathematics Degree I chos
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=estelamb&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=dracula" />
 </a>
     <a href="https://github.com/anuraghazra/convoychat">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estelamb&layout=compact&theme=dracula" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estelamb&layout=compact&theme=dracula&count_private=true" />
 </a>
+
 
 </div>
 
