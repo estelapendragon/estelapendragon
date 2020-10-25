@@ -26,12 +26,17 @@ Passionate about technology, after attending a year of Mathematics Degree I chos
             </a>
         </div>
     </div>
-
-
-
-
-
 </div>
+
+
+
+
+
+
+
+
+
+
 
 <!--
 
