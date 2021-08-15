@@ -8,7 +8,7 @@ Passionate about technology, after attending a year of Mathematics Degree I chos
 - 🌱 I’m currently learning ReactJS
 - ⚡ Fun fact: I'm love working listening musics!
 - 💬 Ask me what you want, let's talk, share experiences
-- 😄 Pronouns: Batista, Estela M.
+- 😄 Pronouns: Miranda, Estela B.
 
 <div align="center">
 <br>
