@@ -1,6 +1,6 @@
 ### Hi! I'm Estela Miranda 👋🏼
 
-<img align="left" hspace="50" vspace="50" width="200" height="200" src="https://github.com/Estelamb/Estelamb/blob/master/myoctocat.png">
+<img align="left" hspace="50" vspace="50" width="200" height="200" src="https://github.com/Estelamb/Estelamb/blob/master/hi.gif">
 
 Passionate about technology, after attending a year of Mathematics Degree I chose to go deeper in computational applications, I entered the Bachelor's Degree in Computer Science in 2018 in UFV, Campus Florestal.
 
