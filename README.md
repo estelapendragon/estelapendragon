@@ -5,5 +5,4 @@ I'm Bachelor's Degree in Computer Science in 2018 in UFV, Campus Florestal.
 
 - 💻 I’m currently working on project [MinasCoders](http://minascoders.caf.ufv.br/), in addition to [Scientific Initiation in Software Engineering and Text Mining](http://nupessc.caf.ufv.br/Colminer.html)
 - 🌱 I’m currently learning Data Science
-- ⚡ Fun fact: I'm love working listening musics!
-- 💬 Ask me what you want, let's talk, share experiences
+- 🎶 Fun fact: I'm love working listening musics!
