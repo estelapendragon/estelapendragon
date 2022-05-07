@@ -4,7 +4,7 @@
 
 💻 Cientista da Computação (7/8) | UFV, Campus Florestal
 
-🎈 Treinadora de Maratonas | (http://minascoders.caf.ufv.br/)
+🎈 Treinadora de Maratonas | [MinasCoders](http://minascoders.caf.ufv.br/)
 
 📚 Pesquisadora em Engenharia de Software e Diversidade de Gênero | [NuPESSC](http://nupessc.caf.ufv.br)
 
