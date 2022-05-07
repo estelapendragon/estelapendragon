@@ -1,4 +1,4 @@
-<img vspace="50" width="200" height="200" src="https://github.com/Estelamb/Estelamb/blob/master/leitora.gif">
+<img vspace="50" height="200" src="https://github.com/Estelamb/Estelamb/blob/master/leitora.gif">
 
 ### Hi! Eu sou Estela Miranda 🦄
 
