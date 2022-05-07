@@ -1,8 +1,8 @@
-<img align="left" hspace="50" vspace="50" width="200" height="200" src="https://github.com/Estelamb/Estelamb/blob/master/hi.gif">
+<img vspace="50" width="200" height="200" src="https://github.com/Estelamb/Estelamb/blob/master/leitora.gif">
 
-### Hi! I'm Estela Miranda 🦄
-I'm Bachelor's Degree in Computer Science in 2018 in UFV, Campus Florestal.
+### Hi! Eu sou Estela Miranda 🦄
 
-- 💻 I’m currently working on project [MinasCoders](http://minascoders.caf.ufv.br/), in addition to [Scientific Initiation in Software Engineering and Text Mining](http://nupessc.caf.ufv.br/Colminer.html)
-- 🌱 I’m currently learning Data Science
-- 🎶 Fun fact: I'm love working listening musics!
+💻 Cientista da Computação (7/8) | UFV, Campus Florestal
+🎈 Treinadora de Maratonas | (http://minascoders.caf.ufv.br/)
+📚 Pesquisadora em Engenharia de Software e Diversidade de Gênero | [NuPESSC](http://nupessc.caf.ufv.br)
+🌸 Hobbies | Ver Animes, Ler e Escutar Músicas enquanto Estuda
