@@ -1,5 +1,3 @@
-<img vspace="50" height="200" src="https://github.com/Estelamb/Estelamb/blob/master/leitora.gif">
-
 <img src="https://github.com/Estelamb/Estelamb/blob/master/leitora.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="gif animado noragami">
 
 <p align="left"> 
@@ -15,11 +13,11 @@
 </p>
 
 <p align="left"> 
-  💼 Linguagens e Ferramentas: <a> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a alt="Python"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
 
-  <a> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
+  <a alt="C"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
 
-  <a> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <a alt="C++"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
 
-  <a> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a alt="JavaScript"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 </p>
